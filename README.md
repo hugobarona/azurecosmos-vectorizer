@@ -5,4 +5,5 @@ This approach is a workaround to enable RAG on Azure AI (LLMs), given the curren
 
 
 
+## Steps
 
